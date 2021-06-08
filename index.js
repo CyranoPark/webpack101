@@ -1,3 +1,3 @@
 function f() {
-  console.log('foo')
+  console.log('foodddd')
 }
